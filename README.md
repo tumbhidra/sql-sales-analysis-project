@@ -1,28 +1,37 @@
-SQL Sales Analysis Project
+SQL Sales Analysis Project (This project simulates real-world business reporting scenarios using SQL.)
+This project demonstrates end-to-end SQL-based analysis of a sales dataset to generate actionable business insights.
 
-This project demonstrates SQL-based data analysis for a sales system.
+1. Business Problem
+   A company wants to understand:
+   - Who are the top customers
+   - Which products generate the most revenue
+   - How customers can be segmented based on spending
 
-1. Objectives
-   - Analyze customer spending
-   - Identify top-selling products
-   - Generate business insights
+3. Dataset Structure
+   The database consists of three tables:
+   - Customers
+   - producrs
+   - orders
 
-2. Tools Used
-   - SQL (MySQL)
-   - SAP HANA concepts
-
-3. Key Features
+5. Key Analysis Performed
+   - Order-level sales calculation
    - Customer revenue analysis
-   - Product performance tracking
-   - Customer segmentation using CASE
-   - Subqueries and advanced SQL logic
+   - Product performance evaluation
+   - Customer segmentation using CASE logic
 
-4. Sample Insights
-   - Top customers based on revenue
-   - High-performing products
-   - Customer classification
+6. Key Insights
+   - Identified high-value customers contributing maximum revenue
+   - Determined top-performing products
+   - Segmented customers into High, Medium, and Low value groups
+  
+7. Skills Demonstrated
+   - SQL Joins
+   - Aggregations (SUM, COUNT)
+   - Subqueries
+   - CASE Statements
+   - Data Analysis
 
-5. How to Run
+8. How to Run
    - Run schema.sql
    - Run data.sql
    - Run analysis_queries.sql
