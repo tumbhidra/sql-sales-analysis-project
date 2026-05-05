@@ -35,3 +35,18 @@ This project demonstrates end-to-end SQL-based analysis of a sales dataset to ge
    - Run schema.sql
    - Run data.sql
    - Run analysis_queries.sql
+  
+📊 Results
+
+### 🔹 Order Level Sales
+![Order Sales](results/order_level_sales.png)
+
+### 🔹 Product Performance
+![Product Sales](results/product_performance.png)
+
+### 🔹 Customer Segmentation
+![Segmentation](results/customer_segmentation.png)
+
+### 🔹 Customer Total Spending
+![Total Spending](results/customer_total_spending.png)
+
