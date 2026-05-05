@@ -4,7 +4,7 @@
 ![Order Sales](order_level_sales.png)
 
 ### 🔹 Product Performance
-![Product Sales](product_sales.png)
+![Product Sales](product_performance.png)
 
 ### 🔹 Customer Segmentation
 ![Segmentation](customer_segmentation.png)
