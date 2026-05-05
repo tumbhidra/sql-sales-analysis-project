@@ -1,13 +1,13 @@
-📊 Results
+## 📊 Results
 
-🔹 Order Level Sales
-![Customer Sales](results/order_level_sales.png)
+### 🔹 Order Level Sales
+![Order Sales](results/order_level_sales.png)
 
-🔹 Product Performance
-![Product Sales](results/product_performance.png)
+### 🔹 Product Performance
+![Product Sales](results/product_sales.png)
 
-🔹 Customer Segmentation
+### 🔹 Customer Segmentation
 ![Segmentation](results/customer_segmentation.png)
 
-🔹 Customer Total Spending
-![Total spending](results/customer_total_spending.png)
+### 🔹 Customer Total Spending
+![Total Spending](results/customer_total_spending.png)
